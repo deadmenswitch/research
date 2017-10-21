@@ -1,0 +1,11 @@
+This wikipedia page descirbes threshold cryptosystems.
+They allow you to encrypt your message with several 
+different people's public keys, and the message can
+only be decrypted if more than a certain number of those
+people cooperate to release the message. This would
+mean that you can send your file out to an entire
+group of people, and they can only decrypt it if more
+than half of them think that the alloted time for the
+dead man's switch has elapsed.
+
+https://en.wikipedia.org/wiki/Threshold_cryptosystem
